@@ -1,1 +1,1 @@
-# weatherpy-web-visualisation
+# weatherpy-web-visualization
